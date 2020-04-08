@@ -5,6 +5,7 @@ Created on Fri Mar 13 03:12:51 2020
 @author: MyPc
 """
 #Fixing the incomplete problems 
+#Refactoring the code 
 import time
 import pandas as pd
 import numpy as np
